@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "holderjs": "^2.9.4",
+    "jquery": "3.3.1",
+    "popper.js": "1.12.9"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.20.1",
+    "webpack-config": "^7.5.0"
+  }
+}
